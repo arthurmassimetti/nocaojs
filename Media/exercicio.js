@@ -12,7 +12,5 @@ if (media < 5){
 }else if (media > 5 && media < 7){
     print("Você está de recuperação, sua chance de se redmir")
 }else{
-    print("Você está aprovado, parabens :)")
+    print("Você está aprovado, parabens você é muito bom :)")
 }
-
-
