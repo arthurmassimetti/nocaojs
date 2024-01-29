@@ -33,3 +33,7 @@ const { maiorPar, menorImpar } = encontrarMaiorParEMenorImpar(quantidade);
 // Imprimindo os resultados
 print("Maior número par: " + (maiorPar !== Number.NEGATIVE_INFINITY ? maiorPar : "Nenhum número par fornecido"));
 print("Menor número ímpar: " + (menorImpar !== Number.POSITIVE_INFINITY ? menorImpar : "Nenhum número ímpar fornecido"));
+
+
+
+
